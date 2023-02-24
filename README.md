@@ -16,5 +16,6 @@ Durch das Öffnen der Präsentation im Animationsmodus werden die einzelnen Schr
 
 Wir hoffen, diese Informationen helfen Ihnen weiter. Bei Fragen oder Anregungen stehen wir Ihnen unter der angegebenen Kontaktdaten gerne zur Verfügung.
 
-Mit freundlichen Grüßen
+Mit freundlichen Grüßen,
+
 DigiDoku+ Team
